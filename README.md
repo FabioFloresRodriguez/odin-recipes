@@ -1,6 +1,8 @@
 # Odin Recipes
 
-## A barebones website that contains 3 recipes
+## What is it?
+
+A barebones website that contains 3 recipes
 
 # Prerequisites
 
