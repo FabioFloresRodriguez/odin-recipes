@@ -12,7 +12,7 @@ Was made with just HTML.
 
 To clone the repository, open a terminal and input 
 ``` bash
-git clone https://github.com/Faterbino/odin-recipes.git
+git clone https://github.com/FabioFloresRodriguez/odin-recipes.git
 ```
 
 # Purpose
